@@ -1,0 +1,11 @@
+
+*{
+  margin:0;
+  padding:0;
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
+
+}
+body{
+  background-image: url("./assets/background.png");
+  font-family: 'system-ui';
+}
